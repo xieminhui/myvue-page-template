@@ -1,0 +1,15 @@
+{
+  "name": "love-page-template",
+  "version": "1.0.0",
+  "description": "love page template",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@git-bobo.nie.netease.com:32200/xieminhui/love-page-template.git"
+  },
+  "author": "xieminhui",
+  "license": "ISC"
+}
