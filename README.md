@@ -1,2 +1,2 @@
-# love-page-template
+# vue-page-template
 
